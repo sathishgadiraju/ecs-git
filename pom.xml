@@ -37,8 +37,8 @@
 </dependency>
 </dependencies>
 <scm>
-<connection>scm:https://github.com/sathishgadiraju/ecs-git.git</connection>
-<developerConnection>scm:https://github.com/sathishgadiraju/ecs-git.git</developerConnection>
+<connection>scm:svn:http://192.168.33.11:8081/subversion/</connection>
+<developerConnection>scm:svn:http://192.168.33.11:8081/subversion/</developerConnection>
 </scm>
 <distributionManagement>
 <repository>
